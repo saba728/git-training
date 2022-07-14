@@ -44,8 +44,14 @@
             <groupId>net.logstash.logback</groupId>
             <artifactId>logstash-logback-encoder</artifactId>
             <version>6.4</version>
+
         </dependency>
-    </dependencies> 
+
+		</dependency>
+		
+    </dependencies>
+	
+	
 
 	
 
